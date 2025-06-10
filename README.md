@@ -30,12 +30,12 @@ A deep learning project to detect plant leaf diseases using a Convolutional Neur
    git clone https://github.com/HarshitSavanur/leaf_disease_prediction.git
    cd leaf_disease_prediction
 2. **Install dependencies and run the app:**
-  ```bash
-  pip install -r requirements.txt
-  streamlit run app.py
+     ```bash
+     pip install -r requirements.txt
+     streamlit run app.py
 
 **📁 Project Structure**
-
+   ```bash
 leaf_disease_prediction/
 ├── app.py                  # Streamlit web app script
 ├── my_model.h5             # Trained CNN model
